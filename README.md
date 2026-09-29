@@ -2,6 +2,10 @@
 
 A small personal portfolio for practicing web design with HTML and CSS. The visual direction draws on Wabi-Sabi and Yin-Yang while keeping the focus on Farzad's learning journey.
 
+## Live Demo
+
+The portfolio is deployed with GitHub Pages.
+
 ## Run locally
 
 Open `index.html` in a browser. The page is static and does not require a build step.
